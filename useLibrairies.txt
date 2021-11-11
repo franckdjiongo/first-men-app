@@ -1,0 +1,5 @@
+BodyParser
+Nodedemon
+Express
+mongodb
+ejs
